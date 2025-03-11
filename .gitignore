@@ -1,7 +1,7 @@
 result/
 
 # Sample file for testing
-sample.txt  
+*.txt  
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
